@@ -1,0 +1,6 @@
+Title: Lab 4 — Tidying your dataset
+Date: 2018-06-05
+Depends:
+  R (>= 3.4)
+Imports:
+  tidyverse
